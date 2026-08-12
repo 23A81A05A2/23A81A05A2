@@ -137,7 +137,7 @@ Python-based projects focused on applying machine learning concepts to practical
 
 ---
 
-## 🎯 My Goals
+##  My Goals
 
 * 💼 Become placement-ready for software/technical roles
 * 🧠 Strengthen DSA and problem-solving skills
@@ -149,7 +149,7 @@ Python-based projects focused on applying machine learning concepts to practical
 
 ---
 
-## 🌱 My Learning Philosophy
+##  My Learning Philosophy
 
 **Learn → Practice → Build → Document → Improve**
 

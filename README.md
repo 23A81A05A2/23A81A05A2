@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science & Engineering Student | Software Development | AI/ML | SAP ABAP</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=23a81a05a2&label=Profile%20Views&color=0e75b6&style=flat" alt="23a81a05a2" />
+  <img src="https://komarev.com/ghpvc/?username=23a81a05a2&label=Profile%20Views&color=1e95e8&style=flat" alt="23a81a05a2" />
 </p>
 
 ---
